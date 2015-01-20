@@ -9,9 +9,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
  Useful addition that displays a list of all your ACF custom fields including their Label, Name, Type, and Field Group they are associated with.
 
-== Description ==
+== Description == 
 
 This plugin was build of the fantastic Advanced Custom Fields plugin created by Elliot Condon, and was made so that referencing custom fields is easier. Here, you can see a full list of all your currently used field which is sortable by clicking on the headers, and should you need to learn more about the field or edit it, clicking the label name will take you to the field group's page so you can do what you need to. The table sorting functionality incorporates the Tablesorter jQuery plugin by Christian Bach. Docs can be found at http://tablesorter.com/docs/.
+
+*Note: This doesn't display fields in your theme. It just gives you a complete list of your fields that you can reference easily and allows you to edit the field groups easily.
 
 I tried to mark up the code for this plugin with lots of comments in hope that people can understand how it is working and expand on this functionality.
 
