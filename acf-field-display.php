@@ -14,7 +14,7 @@ if( !defined('ABSPATH') ){
 	define('ABSPATH', dirname(__FILE__) . '/');
 }
 //define plugin path constant
-define( 'ARMY', WP_PLUGIN_URL . '/acf-field-display' );
+define( 'ARMY', WP_PLUGIN_URL . '/acf-fields-display' );
 
 //Include the options page
 function loose_seal(){
