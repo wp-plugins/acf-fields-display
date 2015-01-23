@@ -13,7 +13,7 @@ function its_a_bird($haystack, $needle){
 add_action( 'admin_menu', 'f_display_opts_add_page' ); 
 
 function f_display_opts_add_page() {
-	add_menu_page('options-general.php', 'ACF Field Display', 'edit_theme_options', 'acf_show_fields', 'acf_show_fields', AFD_URL .'/css/icons/list-fields.png' );
+	add_menu_page('options-general.php', 'ACF Field Display', 'edit_theme_options', 'acf_show_fields', 'acf_show_fields', ARMY .'/css/icons/list-fields.png' );
 }
 
 function acf_show_fields(){
