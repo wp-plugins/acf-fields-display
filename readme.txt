@@ -3,7 +3,8 @@ Contributors: Shane Provost, Lieberman Technologies
 Tags: advanced custom fields, reference, acf
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: trunk
+Version: 1.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,4 +44,7 @@ If this is the case with you, make sure you have custom fields created.
 
 = 1.0 =
 * Currently, this is the first version of this plugin and no changes have been made. 
+
+= 1.1 =
+Updated paths to fix errors
 
